@@ -2,6 +2,11 @@
 
 A curated list of list of AI Ethics books, papers, Organisations, courses, conferences...
 
+Collection is curated by:
+
+* [Marilù Miotto](http://independent.academia.edu/MiottoMarilù/CurriculumVitae) ([@marikyu7](http://twitter.com/marikyu7)): Bachelor in International Studies at Trento University and Master International Security Studies student at Charles University in Prague
+* [Matteo G.P. Flora](http://mgpf.it) ([@lastknight](http://twitter.com/marikyu7)): Adjunct Professor of Corporate Reputation & Storytelling at university of Pavia, Lecturer of Big Data and Analytics at Bicocca University in Milan, CEO The Fool. Hacker.
+
 Contributions most welcome.
 
 ## Contents
