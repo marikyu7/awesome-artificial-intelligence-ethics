@@ -63,7 +63,6 @@ Contributions most welcome.
 * [Applicable Algebra in Engineering, Communication and Computing](http://www.springer.com/journal/200)
 * [Applied Intelligence](http://www.springer.com/journal/10489)
 * [Artificial Intelligence Review](http://www.springer.com/journal/10462)
-* [Automated Software Engineering](http://www.springer.com/journal/10515)
 * [Autonomous Agents and Multi-Agent Systems](http://www.springer.com/journal/10458)
 * [Computational and Mathematical Organization Theory ](http://www.springer.com/journal/10588)
 * [Evolutionary Intelligence](http://www.springer.com/journal/12065)
