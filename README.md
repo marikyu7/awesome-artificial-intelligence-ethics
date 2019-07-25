@@ -59,12 +59,12 @@ Contributions most welcome.
 
 ## Organizations
 
-* [Future of Humanity Institute] (https://www.fhi.ox.ac.uk) (@FHIOxford) - Based at Oxford University FHI is a multidisciplinary research institute born to investigates what we can do now to ensure a long flourishing future
-* [Leverhulme Centre for the Future of Intelligence] (http://lcfi.ac.uk) (@LeverhulmeCFI) - The CFI research is mostly structured in a series of projects and research exercises. Research is done by an interdisciplinary community of researchers, with strong links to technologists and the policy world, and a clear practical goal. Topics range from algorithmic transparency to exploring the implications of AI for democracy.
-* [Centre for the Study of Existential Risk] (https://www.cser.ac.uk) (@CSERCambridge) - An interdisciplinary research centre within CRASSH at the University of Cambridge dedicated to the study and mitigation of existential risks
-* [Global Catastrophic Risk Institute] (https://gcrinstitute.org/ai/) (@GCRInstitute) - GCRI studies the human process of developing and governing AI, using risk analysis, social science, and the extensive knowledge we have gained from the study of other risks.
-* [OpenAI] (https://openai.com) (@OpenAI) - a team of a hundred people based in San Francisco, California whose mission is to ensure that artificial general intelligence benefits all of humanity.
-* [MIRI - Machine Intelligence Research Institute] (https://intelligence.org) (@MIRIBerkeley) - a research nonprofit that studies the mathematical underpinnings of intelligent behavior. Their mission is to develop formal tools for the clean design and analysis of general-purpose AI systems, with the intent of making such systems safer and more reliable when they are developed.
+* [Future of Humanity Institute (@FHIOxford)](https://www.fhi.ox.ac.uk) - Based at Oxford University FHI is a multidisciplinary research institute born to investigates what we can do now to ensure a long flourishing future. 
+* [Leverhulme Centre for the Future of Intelligence (@LeverhulmeCFI)](http://lcfi.ac.uk) - The CFI research is mostly structured in a series of projects and research exercises. Research is done by an interdisciplinary community of researchers, with strong links to technologists and the policy world, and a clear practical goal. Topics range from algorithmic transparency to exploring the implications of AI for democracy. 
+* [Centre for the Study of Existential Risk (@CSERCambridge)](https://www.cser.ac.uk) - An interdisciplinary research centre within CRASSH at the University of Cambridge dedicated to the study and mitigation of existential risks. 
+* [Global Catastrophic Risk Institute (@GCRInstitute)](https://gcrinstitute.org/ai/) - GCRI studies the human process of developing and governing AI, using risk analysis, social science, and the extensive knowledge we have gained from the study of other risks.
+* [OpenAI (@OpenAI)](https://openai.com) - a team of a hundred people based in San Francisco, California whose mission is to ensure that artificial general intelligence benefits all of humanity.
+* [MIRI - Machine Intelligence Research Institute (@MIRIBerkeley)](https://intelligence.org) - a research nonprofit that studies the mathematical underpinnings of intelligent behavior. Their mission is to develop formal tools for the clean design and analysis of general-purpose AI systems, with the intent of making such systems safer and more reliable when they are developed.
 
 ## Journals
 
