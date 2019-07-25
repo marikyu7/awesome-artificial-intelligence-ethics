@@ -13,51 +13,67 @@ Contributions most welcome.
 
 1. [Courses](#courses)
 2. [Books](#books)
-3. [Programming](#programming)
-4. [Philosophy](#philosophy)
-5. [Free Content](#free-content)
-6. [Code](#code)
-7. [Videos](#videos)
-8. [Learning](#learning)
-9. [Organizations](#organizations)
-10. [Journals](#journals)
-11. [Conferences](#conferences)
-12. [Misc](#misc)
+3. [Papers](#papers)
+4. [Blogs](#blogs)
+5. [Blog posts](#blog-posts)
+6. [Research centres](#research-centres)
+7. [Journals](#journals)
+8. [Conferences](#conferences)
+9. [Misc](#misc)
+10. [Kudos](#kudos)
 
 
 ## Courses
 
-* [Something](http://localhost) - A Very Nice Description...
+* [Artificial Intelligence - Philosophy, Ethics, and Impact](http://web.stanford.edu/class/cs122/) - The goal of the course is to equip students with the intellectual tools, ethical foundation, and psychological framework to successfully navigate the coming age of intelligent machines.
+* [Data Science Ethics - MIT](https://www.edx.org/course/data-science-ethics-0)
+* [Responsible Innovation in the Age of AI - IEEE](https://ieeexplore.ieee.org/courses/details/EDP496?tag=1) - This course focuses on how traditional philosophical models like utilitarianism, virtue ethics and other key modalities of applied ethics have evolved to embrace specifics of algorithmic tracking and intelligence augmentation of AI.
+* [Ethics and Law in Data and Analytics - Microsoft](https://www.edx.org/course/ethics-and-law-in-data-and-analytics-3) - In this course, you'll learn to apply ethical and legal frameworks to initiatives in the data profession. You'll explore practical approaches to data and analytics problems posed by work in Big Data, Data Science, and AI. You'll also investigate applied data methods for ethical and legal work in Analytics and AI.
+* [The Ethics and Governance of Artificial Intelligence - MIT](https://www.media.mit.edu/courses/the-ethics-and-governance-of-artificial-intelligence/) - This course will pursue a cross-disciplinary investigation of the development and deployment of the opaque complex adaptive systems that are increasingly in public and private use. 
+* [The Economic Advantage of Ethical Design For Business - IEEE](https://ieeexplore.ieee.org/courses/details/EDP497) - AI/S technology cannot be built in isolation, and to get a full sense of ethical and policy impacts of this technology it's essential to understand the larger context of its implementation to best increase societal wellbeing while building business.
 
 ## Books
 
-* [Something](http://localhost) - A Very Nice Description...
+* [Superintelligence - Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom-ebook/dp/B00LOOCGB2/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) - The book asks the questions: what happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life.
+* [Artificial Intelligence Safety and Security](https://www.crcpress.com/Artificial-Intelligence-Safety-and-Security/Yampolskiy/p/book/9780815369820) - This book is proposed to mitigate the foundamental problem of safety and security issues of AI. It is comprised of chapters from leading AI Safety researchers addressing different aspects of the AI control problem as it relates to the development of safe and secure artificial intelligence.
+* [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598/) - What sort of future do you want? This book empowers you to join what may be the most important conversation of our time. It doesn’t shy away from the full range of viewpoints or from the most controversial issues—from superintelligence to meaning, consciousness and the ultimate physical limits on life in the cosmos.
+* [Towards a Code of Ethics for Artificial Intelligence - Paula Boddington](https://link.springer.com/content/pdf/10.1007/978-3-319-60648-4.pdf) - The book explores in detail the ethical codes of practice in science, and should be read by everyone with an interest in the future of AI.
 
-## Programming
+## Papers
 
-* [Something](http://localhost) - A Very Nice Description...
+* [The Ethics of Artificial Intelligence](https://intelligence.org/files/EthicsofAI.pdf) - The possibility of creating thinking machines raises a host of ethical issues. These ques- tions relate both to ensuring that such machines do not harm humans and other morally relevant beings, and to the moral status of the machines themselves.
+* [Ancient dreams of intelligent machines: 3,000 years of robots.](https://www.nature.com/articles/d41586-018-05773-y) - Past and Present AI Narratives.
+* [The Value Learning Problem](https://intelligence.org/files/ValueLearningProblem.pdf) - The paper cover the hypothesised basic drives of AI agents at level or reaching beyond the human intelligence.
+* [Safety Engineering for Artificial General Intelligence](https://intelligence.org/files/SafetyEngineering.pdf) - This paper encompasses the alignment issues pertaining to the open-ended and cognitively developing intelligence. More precisely, it discusses the issue of acquiring values aligned with human intensions, interests, and needs.
+* [AGI Safety Literature Review](https://arxiv.org/pdf/1805.01109.pdf) - A review regarding the current state of Artificial General Intelligence development.
+* [What is a Singleton?](https://nickbostrom.com/fut/singleton.html) - This note introduces the concept of a “singleton” and suggests that this concept is useful for formulating and analyzing possible scenarios for the future of humanity.
+* [A Model of Pathways to Artificial Superintelligence Catastrophe for Risk and Decision Analysis
+](https://arxiv.org/pdf/1607.07730.pdf) - This paper presents a graphical model of major pathways to ASI catastrophe, focusing on ASI created via recursive self-improvement.
+* [Superintelligence Skepticism as a Political Tool](https://www.mdpi.com/2078-2489/9/9/209) - This paper explores the potential for skepticism about artificial superintelligence to be used as a tool for political ends.
+* [Countering Superintelligence Misinformation](https://www.mdpi.com/2078-2489/9/10/244?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Information_TrendMD_0) - This paper surveys strategies to counter superintelligence misinformation.
+* [Will there be superintelligence and would it hate us?](https://aaai.org/ojs/index.php/aimagazine/article/view/2726) - The paper suggests that AI may well in some future produce undesirable social effects but there is as yet no reason to think they could be on the massive and end-of-civilization scale Bostrom so confidently predicts.
+* [The errors, insights and lessons of famous AI predictions – and what they mean for the future](https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf) - This paper will start by proposing a decomposition schema for classifying AI predictions. Then it constructs a variety of theoretical tools for analysing, judging and improving them.
+* [Offensive Realism and the Insecure Structure of the International System](https://www.taylorfrancis.com/books/e/9781351251389/chapters/10.1201/9781351251389-23) - Nick Bostrom has recommended AI development under what he calls the common good principle: “[s]uperintelligence should be developed only for the benefit of all humanity and the service of widely shared ethical ideals.”7 Proposals for precisely which ideals or guidelines should regulate AI production are often linked to their potential use as weaponry.
+* [Military AI as a Convergent Goal of Self-Improving AI.](https://philpapers.org/rec/TURMAA-6) - Authors show that one of the convergent drives of AI is a militarization drive, arising from AI’s need to wage a war against its potential rivals by either physical or software means, or to increase its bargaining power. This militarization trend increases global catastrophic risk or even existential risk during AI takeoff.
+* [Artificial agents and the expanding ethical circle](https://www.researchgate.net/publication/257333998_Artificial_agents_and_the_expanding_ethical_circle) - The paper discusses the realizability and the ethical ramifications of Machine Ethics, from a number of different perspectives: the anthropocentric, infocentric, biocentric and ecocentric ones.
+* [Superintelligence and the Future of Governance:
+On Prioritizing the Control Problem at the End of History](https://philpapers.org/rec/TORSAT-6) - The author suggests that the only plausible escape from the security/surveillance conundrum is the creation of a “supersingleton” run by a friendly superintelligence, founded upon a “post-singularity social contract.”
 
-## Philosophy
+## Blogs
 
-* [Something](http://localhost) - A Very Nice Description...
+* [ChinAI](https://chinai.substack.com) - Jeff Ding's (sometimes) weekly translations of Chinese-language musings on AI and related topics.
+* [Nick Bostrom's Home Page](https://nickbostrom.com)
+* [LessWrong](https://www.lesswrong.com) - a community dedicated to improving reasoning and decision-making. It seeks to hold true beliefs and to be effective at accomplishing its goals. More generally, it works to develop and practice the art of human rationality.
 
-## Free Content
+## Blog posts
 
-* [Something](http://localhost) - A Very Nice Description...
-
-## Code
-
-* [Something](http://localhost) - A Very Nice Description...
+* [Intro to AI Ethics](https://towardsdatascience.com/intro-to-ai-ethics-2a31fbbe6e87) - Ethical considerations when building and interacting with Artificially Intelligent systems
 
 ## Videos
 
 * [Something](http://localhost) - A Very Nice Description...
 
-## Learning
-
-* [Something](http://localhost) - A Very Nice Description...
-
-## Organizations
+## Research centres
 
 * [Future of Humanity Institute (@FHIOxford)](https://www.fhi.ox.ac.uk) - Based at Oxford University FHI is a multidisciplinary research institute born to investigates what we can do now to ensure a long flourishing future. 
 * [Leverhulme Centre for the Future of Intelligence (@LeverhulmeCFI)](http://lcfi.ac.uk) - The CFI research is mostly structured in a series of projects and research exercises. Research is done by an interdisciplinary community of researchers, with strong links to technologists and the policy world, and a clear practical goal. Topics range from algorithmic transparency to exploring the implications of AI for democracy. 
@@ -65,51 +81,40 @@ Contributions most welcome.
 * [Global Catastrophic Risk Institute (@GCRInstitute)](https://gcrinstitute.org/ai/) - GCRI studies the human process of developing and governing AI, using risk analysis, social science, and the extensive knowledge we have gained from the study of other risks.
 * [OpenAI (@OpenAI)](https://openai.com) - a team of a hundred people based in San Francisco, California whose mission is to ensure that artificial general intelligence benefits all of humanity.
 * [MIRI - Machine Intelligence Research Institute (@MIRIBerkeley)](https://intelligence.org) - a research nonprofit that studies the mathematical underpinnings of intelligent behavior. Their mission is to develop formal tools for the clean design and analysis of general-purpose AI systems, with the intent of making such systems safer and more reliable when they are developed.
+* [The Institute for Ethical AI & Machine Learning (@EthicalML)](https://ethical.institute/index.html) - a UK-based research centre that carries out highly-technical research into responsible machine learning systems. 
+* [AI Ethics Lab (@AIEthicsLab)](http://aiethicslab.com) -  Through collaboration between computer scientists, practicing lawyers and legal scholars, and philosophers, the Lab offers a comprehensive approach to ethical design of AI-related technology.
+* [Data & Society](https://datasociety.net) - an independent nonprofit research institute that advances public understanding of the social implications of data-centric technologies and automation.
+* [Berkman Klein Center](https://cyber.harvard.edu/topics/ethics-and-governance-ai) - centre's mission is to explore and understand cyberspace; to study its development, dynamics, norms, and standards; and to assess the need or lack thereof for laws and sanctions. 
+[Princeton Dialogues on AI and Ethics](https://aiethics.princeton.edu) -  is a research collaboration between Princeton’s University Center for Human Values (UCHV) and the Center for Information Technology Policy (CITP) that seeks to explore these questions – as well as many more. Research is focused on the emerging field of artificial intelligence (broadly defined) and its interaction with ethics and political theory.
+* [AI-Ethics](https://ai-ethics.com) - The mission of this group is threefold: Foster dialogue between the conflicting camps in the current AI ethics debate; Help articulate basic regulatory principles for government and industry groups; and Inspire and educate everyone on the importance of artificial intelligence.
 
 ## Journals
 
 * [AI & Society](http://www.springer.com/journal/146)
-* [Annals of Mathematics and Artifical Intelligence](http://www.springer.com/journal/10472)
-* [Applicable Algebra in Engineering, Communication and Computing](http://www.springer.com/journal/200)
-* [Applied Intelligence](http://www.springer.com/journal/10489)
-* [Artificial Intelligence Review](http://www.springer.com/journal/10462)
-* [Autonomous Agents and Multi-Agent Systems](http://www.springer.com/journal/10458)
-* [Computational and Mathematical Organization Theory ](http://www.springer.com/journal/10588)
+* [Journal of Experimental & Theoretical Artificial Intelligence](https://www.tandfonline.com/loi/teta20)
+* [AI Communications](https://www.iospress.nl/journal/ai-communications/)
 * [Evolutionary Intelligence](http://www.springer.com/journal/12065)
-* [Intelligent Industrial Systems](http://www.springer.com/engineering/robotics/journal/40903)
-* [Journal of Automated Reasoning](http://www.springer.com/journal/10817)
-* [Journal on Data Semantics ](http://www.springer.com/journal/13740)
-* [Journal of Intelligent Information Systems ](http://www.springer.com/journal/10844)
+* [Information](https://www.mdpi.com/journal/information)
 * [Minds and Machines](http://www.springer.com/journal/11023)
 * [Progress in Artificial Intelligence ](http://www.springer.com/journal/13748)
 * [Artificial Intelligence](http://www.elsevier.com/locate/artint)
-* [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)
 * [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
-* [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
-* [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF)
-* [International Journal of Intelligent Systems](http://www.interscience.wiley.com/jpages/0884-8173/)
-* [Applied Artificial Intelligence](http://www.tandf.co.uk/journals/tf/08839514.html)
-* [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
-* [Journal of Experimental and Theoretical Artificial Intelligence ](http://www.tandf.co.uk/journals/tf/0952813X.html)
-* [Artificial Intelligence for Engineering Design, Analysis and Manufacturing](http://journals.cambridge.org/action/displayJournal?jid=AIE)
-* [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal&issn=0921-7126)
-* [International Journal on Artificial Intelligence Tools](http://www.worldscinet.com/journals/ijait/ijait.shtml)
-* [Electronic Transactions on Artificial Intelligence](http://www.etaij.org/)
-* [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/publications/t-ase)
 
 ## Conferences
 
-* [MIT Battlecode](https://www.battlecode.org/)
-* [AI Challenge](http://aichallenge.org)
-* [AI Games](http://theaigames.com)
-* [Building JS robots](http://fightcodegame.com/)
+* [International Joint Conferences on Artificial Intelligence (@IJCAIconf)](https://www.ijcai.org)
+* [AAAI Conferences](http://www.aaai.org/Conferences/conferences.php)
+* [AIES Conference](http://www.aies-conference.com)
+* [GAITC](https://gaitc.caai.cn/en)
 
 ## Misc
 
-* [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 * [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 * [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
-* [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
+* [Artificial Intelligence Ethics Subreddit](https://www.reddit.com/r/AIethics/)
+
+## Kudos
+
 
 ## License
 
