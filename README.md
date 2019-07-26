@@ -64,12 +64,13 @@ On Prioritizing the Control Problem at the End of History](https://philpapers.or
 ## Blogs
 
 * [ChinAI](https://chinai.substack.com) - Jeff Ding's (sometimes) weekly translations of Chinese-language musings on AI and related topics.
-* [Nick Bostrom's Home Page](https://nickbostrom.com)
+* [Nick Bostrom's Home Page](https://nickbostrom.com) - Home page for Nick Bostrom, Swedish philosopher at the University of Oxford known for his work on existential risk, the anthropic principle, human enhancement ethics, superintelligence risks, and the reversal test.
 * [LessWrong](https://www.lesswrong.com) - a community dedicated to improving reasoning and decision-making. It seeks to hold true beliefs and to be effective at accomplishing its goals. More generally, it works to develop and practice the art of human rationality.
 
 ## Blog posts
 
-* [Intro to AI Ethics](https://towardsdatascience.com/intro-to-ai-ethics-2a31fbbe6e87) - Ethical considerations when building and interacting with Artificially Intelligent systems
+* [Intro to AI Ethics](https://towardsdatascience.com/intro-to-ai-ethics-2a31fbbe6e87) - Ethical considerations when building and interacting with Artificially Intelligent systems.
+* [The Hitchhiker’s Guide to AI Ethics](https://towardsdatascience.com/ethics-of-ai-a-comprehensive-primer-1bfd039124b0) - “The Hitchhiker’s Guide to AI Ethics is a must read for anyone interested in the ethics of AI.” also [part 2](https://towardsdatascience.com/the-hitchhikers-guide-to-ai-ethics-part-2-what-ai-is-c047df704a00) and [part 3](https://medium.com/@naliniwrites/the-hitchhikers-guide-to-ai-ethics-part-3-what-ai-does-its-impact-c27b9106427a?source=post_page---------------------------).
 
 ## Videos
 
