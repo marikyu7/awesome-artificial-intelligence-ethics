@@ -26,7 +26,7 @@ Contributions most welcome.
 ## Courses
 
 * [Artificial Intelligence - Philosophy, Ethics, and Impact](http://web.stanford.edu/class/cs122/) - The goal of the course is to equip students with the intellectual tools, ethical foundation, and psychological framework to successfully navigate the coming age of intelligent machines.
-* [Data Science Ethics - MIT](https://www.edx.org/course/data-science-ethics-0)
+* [Data Science Ethics - MIT](https://www.edx.org/course/data-science-ethics-0) - This course focused on ethics specifically related to data science will provide you with the framework to analyze these concerns.
 * [Responsible Innovation in the Age of AI - IEEE](https://ieeexplore.ieee.org/courses/details/EDP496?tag=1) - This course focuses on how traditional philosophical models like utilitarianism, virtue ethics and other key modalities of applied ethics have evolved to embrace specifics of algorithmic tracking and intelligence augmentation of AI.
 * [Ethics and Law in Data and Analytics - Microsoft](https://www.edx.org/course/ethics-and-law-in-data-and-analytics-3) - In this course, you'll learn to apply ethical and legal frameworks to initiatives in the data profession. You'll explore practical approaches to data and analytics problems posed by work in Big Data, Data Science, and AI. You'll also investigate applied data methods for ethical and legal work in Analytics and AI.
 * [The Ethics and Governance of Artificial Intelligence - MIT](https://www.media.mit.edu/courses/the-ethics-and-governance-of-artificial-intelligence/) - This course will pursue a cross-disciplinary investigation of the development and deployment of the opaque complex adaptive systems that are increasingly in public and private use. 
