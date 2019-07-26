@@ -1,7 +1,7 @@
 # Awesome Ethics of Artificial Intelligence (AI)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
-	<sub>Just type <a href="https://artificialethics.it"><code>artificialethics.it</code></a> to go here. And <code>info @artificialethics.it</code> for suggestions!</sub>
+	<sub>Just type <a href="http://artificialethics.it"><code>artificialethics.it</code></a> to go here. And <code>info @artificialethics.it</code> for suggestions!</sub>
 </p>
 
 The term "Ethics of Artificial Intelligence" refers to the morality of how humans design, construct, use and treat Artificial Intelligence(s) and artificially intelligent beings. It considers both how artificially intelligent beings may be used to harm humans and how they may be used to benefit humans.  
