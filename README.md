@@ -1,8 +1,9 @@
 # Awesome Ethics of Artificial Intelligence (AI)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-The term "Ethics of Artificial Intelligence" refers to the morality of how humans design, construct, use and treat Artificial Intelligence(s) and artificially intelligent beings. It considers both how artificially intelligent beings may be used to harm humans and how they may be used to benefit humans.
-In this document you will find curated list of useful (sometimes awesome) resorices on learning the basics of Ethics of Artificial Intelligence in [courses](#courses), [books](#books), [papers](#papers), [blogs](#blogs) (and [blog posts](#blog-posts)), [research centres](#research-centres), [journals](#journals), [conferences](#conferences) and [much, much more](#misc)...
-
+The term "Ethics of Artificial Intelligence" refers to the morality of how humans design, construct, use and treat Artificial Intelligence(s) and artificially intelligent beings. It considers both how artificially intelligent beings may be used to harm humans and how they may be used to benefit humans.  
+  
+In this document you will find curated list of useful (sometimes awesome) resorices on learning the basics of Ethics of Artificial Intelligence in [courses](#courses), [books](#books), [papers](#papers), [blogs](#blogs) (and [blog posts](#blog-posts)), [research centres](#research-centres), [journals](#journals), [conferences](#conferences) and [much, much more](#misc)...  
+  
 Collection is curated by:
 
 * [Marilù Miotto](http://independent.academia.edu/MiottoMarilù/CurriculumVitae) ([@marikyu7](http://twitter.com/marikyu7)): Bachelor in International Studies at Trento University and Master International Security Studies student at Charles University in Prague
