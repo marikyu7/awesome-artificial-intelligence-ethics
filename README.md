@@ -76,6 +76,7 @@ On Prioritizing the Control Problem at the End of History](https://philpapers.or
 * [Intro to AI Ethics](https://towardsdatascience.com/intro-to-ai-ethics-2a31fbbe6e87) - Ethical considerations when building and interacting with Artificially Intelligent systems.
 * [The Hitchhiker’s Guide to AI Ethics](https://towardsdatascience.com/ethics-of-ai-a-comprehensive-primer-1bfd039124b0) - “The Hitchhiker’s Guide to AI Ethics is a must read for anyone interested in the ethics of AI.” also [part 2](https://towardsdatascience.com/the-hitchhikers-guide-to-ai-ethics-part-2-what-ai-is-c047df704a00) and [part 3](https://medium.com/@naliniwrites/the-hitchhikers-guide-to-ai-ethics-part-3-what-ai-does-its-impact-c27b9106427a?source=post_page---------------------------).
 * [An Overview of National AI Strategies](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd) - The article summarizes the key policies and goals of states regarding AI. Such policies represent a first application of AI ethics by public entities.
+* [What is facial recognition - and how sinister is it?](https://www.theguardian.com/technology/2019/jul/29/what-is-facial-recognition-and-how-sinister-is-it) - an article by The Guardian that summarizes ethics implications of facial recognition.
 
 ## Videos
 
