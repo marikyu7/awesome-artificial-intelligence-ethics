@@ -37,6 +37,7 @@ Contributions most welcome in the [GitHub page](https://github.com/marikyu7/awes
 * [Ethics and Law in Data and Analytics - Microsoft](https://www.edx.org/course/ethics-and-law-in-data-and-analytics-3) - In this course, you'll learn to apply ethical and legal frameworks to initiatives in the data profession. You'll explore practical approaches to data and analytics problems posed by work in Big Data, Data Science, and AI. You'll also investigate applied data methods for ethical and legal work in Analytics and AI.
 * [The Ethics and Governance of Artificial Intelligence - MIT](https://www.media.mit.edu/courses/the-ethics-and-governance-of-artificial-intelligence/) - This course will pursue a cross-disciplinary investigation of the development and deployment of the opaque complex adaptive systems that are increasingly in public and private use. 
 * [The Economic Advantage of Ethical Design For Business - IEEE](https://ieeexplore.ieee.org/courses/details/EDP497) - AI/S technology cannot be built in isolation, and to get a full sense of ethical and policy impacts of this technology it's essential to understand the larger context of its implementation to best increase societal wellbeing while building business.
+* [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) - An Introduction to AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required.
 
 ## Books
 
