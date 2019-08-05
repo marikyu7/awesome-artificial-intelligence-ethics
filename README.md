@@ -47,6 +47,7 @@ Contributions most welcome in the [GitHub page](https://github.com/marikyu7/awes
 
 ## Papers
 
+* [Principled Artificial Intelligence](https://ai-hr.cyber.harvard.edu) - Is there enough commonality among AI ethics efforts to suggest the emergence of sectoral norms? Where are the most significant points of divergence? This report presents thirty-two sets of principles side by side, enabling comparison between efforts from governments, companies, advocacy groups, and multi-stakeholder initiatives.
 * [The Ethics of Artificial Intelligence](https://intelligence.org/files/EthicsofAI.pdf) - The possibility of creating thinking machines raises a host of ethical issues. These ques- tions relate both to ensuring that such machines do not harm humans and other morally relevant beings, and to the moral status of the machines themselves.
 * [Ancient dreams of intelligent machines: 3,000 years of robots.](https://www.nature.com/articles/d41586-018-05773-y) - Past and Present AI Narratives.
 * [The Value Learning Problem](https://intelligence.org/files/ValueLearningProblem.pdf) - The paper cover the hypothesised basic drives of AI agents at level or reaching beyond the human intelligence.
